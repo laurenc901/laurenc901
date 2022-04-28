@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @laurenc901
 - 👀 I’m interested in sofware engineering
-- 🌱 I’m currently learning advanced Javascript concepts and JQuery
+- 🌱 I’m currently learning API/AJAX
 - 📫 How to reach me: laurencox901@gmail.com
 
 <!---
