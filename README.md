@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @laurenc901
 - 👀 I’m interested in sofware engineering
-- 🌱 I’m currently learning API/AJAX
+- 🌱 I’m currently learning Python
 - 📫 How to reach me: laurencox901@gmail.com
 
 <!---
